@@ -13,7 +13,7 @@ This implementation serves as an educational example for developers looking to b
 
 ## What is MCP?
 
-Machine Chat Protocol (MCP) is an open protocol designed for structured communication between AI agents and tools/services. It enables AI systems to call external tools while maintaining a standardized communication format.
+MCP is an open protocol designed for structured communication between AI agents and tools/services. It enables AI systems to call external tools while maintaining a standardized communication format.
 
 ## Prerequisites
 
